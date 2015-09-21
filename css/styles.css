@@ -1,5 +1,12 @@
+#show-contact {
+  display: none;
+}
 
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
 
-.will {
-float:right;
+.contact:hover {
+  text-decoration: underline;
 }
